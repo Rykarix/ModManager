@@ -13,6 +13,17 @@
   </a>
 </p>
 
+# Intro
+Since the game does not give you a way to easily enable, disable & organise your mods, I made a tool that makes it much easier.
+
+Future improvements:
+- Auto arrange mod load order to save you hours of trial an error
+- Information scraping from steam workshop to get mod information. Things like version, updates, images & documentation etc
+- Dark mode for tool
+- Shortcuts added for tool
+- and more
+
+
 # GUI
 <p align="center">
   <img src="https://github.com/Rykarix/ModManager/blob/master/python3.10_YSAy6SBuSk.gif">
