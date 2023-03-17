@@ -13,7 +13,12 @@
   </a>
 </p>
 
-# Support 
+# GUI
+<p align="center">
+  <img src="https://github.com/Rykarix/ModManager/blob/master/python3.10_YSAy6SBuSk.gif">
+</p>
+
+# Support
 If you appreciate my work / music & you're in a particularly giving mood then feel free to support me on:
 
 [![Buy Coffee](https://github.com/Rykarix/ModManager/blob/master/.github/coffee.png)](https://ko-fi.com/rykari)
